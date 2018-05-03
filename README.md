@@ -1,6 +1,8 @@
 # tehnopark_algorithms
 Репа для сдачи лаб по алгоритмам
 
+Успеваемость: https://docs.google.com/spreadsheets/d/1i9Zm2RFA6kmAhV9nXnE39Y0V2GfGaSv8cvYzYt_vXNw/edit#gid=6
+
 Задания первого модуля: https://docs.google.com/document/d/1qJ7Jg_eYe1CZeV0_70tvEdrFCMdFUXKDuquyHDxZ2y4/edit
 Мои задания: 
 1) 2
@@ -13,7 +15,6 @@
 
 Задание второго модуля: https://docs.google.com/document/d/14cEId086ADNc5KCtMsLD9nYtYPYZ7blEBxUtH4zjqYY/edit?usp=drive_web
 Мои задания:
-
 1) 2
 2) 3
 3) 2
